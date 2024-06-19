@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "current": {
     "license": "e492a855-7f06-4124-93a4-eaa77f81e7db",
@@ -1149,7 +1158,7 @@
           "1513936125529": {
             "type": "collection",
             "settings": {
-              "collection": "personal-packs",
+              "collection": "orginal-tattoo-bandage-packs",
               "external_link": false,
               "usecollectionimage": true,
               "text_to_left": false,
@@ -2479,7 +2488,7 @@
             "type": "item",
             "settings": {
               "tab_name": "PERSONAL PACKS",
-              "collection": "personal-packs",
+              "collection": "orginal-tattoo-bandage-packs",
               "limit": "4",
               "toshow": "4",
               "step": "1",
