@@ -1158,7 +1158,7 @@
           "1513936125529": {
             "type": "collection",
             "settings": {
-              "collection": "orginal-tattoo-bandage-packs",
+              "collection": "original-tattoo-bandage-packs",
               "external_link": false,
               "usecollectionimage": true,
               "text_to_left": false,
@@ -2488,7 +2488,7 @@
             "type": "item",
             "settings": {
               "tab_name": "PERSONAL PACKS",
-              "collection": "orginal-tattoo-bandage-packs",
+              "collection": "original-tattoo-bandage-packs",
               "limit": "4",
               "toshow": "4",
               "step": "1",
